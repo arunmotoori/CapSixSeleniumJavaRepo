@@ -12,6 +12,8 @@ import base.Base;
 import pageobjects.HomePage;
 import pageobjects.SearchPage;
 
+// Automation scripts for Search functionality
+
 public class SearchTest extends Base {
 	
 	public WebDriver driver;
