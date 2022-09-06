@@ -13,6 +13,8 @@ import pageobjects.AccountSuccessPage;
 import pageobjects.HomePage;
 import pageobjects.RegisterPage;
 
+//Test Automation Scripts written for Register Account functionality
+
 public class RegisterTest extends Base {
 	
 	public WebDriver driver;
