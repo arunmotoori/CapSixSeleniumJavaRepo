@@ -12,7 +12,7 @@ import base.Base;
 import pageobjects.HomePage;
 import pageobjects.SearchPage;
 
-// Automation scripts for Search functionality
+//Test Automation Scripts written for Search functionality
 
 public class SearchTest extends Base {
 	
