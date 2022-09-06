@@ -12,6 +12,8 @@ import pageobjects.AccountPage;
 import pageobjects.HomePage;
 import pageobjects.LoginPage;
 
+//Login Functionality Test Automation Scripts
+
 public class LoginTest extends Base{
 	
 	public WebDriver driver;
